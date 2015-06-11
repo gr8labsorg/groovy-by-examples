@@ -1,0 +1,6 @@
+= Groovy By Example
+
+[source,groovy]
+----
+println "Groovy rocks!"
+----
